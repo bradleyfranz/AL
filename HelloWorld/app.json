@@ -1,0 +1,22 @@
+{
+  "id": "3cdc2c71-5708-4b0e-9997-93203fe117e4",
+  "name": "HelloWorld",
+  "publisher": "HWAL Code",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": {
+    "version": "10.0.0.0",
+    "locale": "US"
+  }
+}
