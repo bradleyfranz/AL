@@ -8,5 +8,6 @@ pageextension 70770078 CustomerListExt extends "Customer List"
     begin
         Message('My App published: Hello world');
         Message('Some other text I added');
+        Message('Added in my Feature Branch');
     end;
 }
